@@ -1,0 +1,12 @@
+{
+    "email": [
+        "invalidEmail1",
+        "invalidEmail2@example",
+        "invalidEmail3@.com"
+    ],
+    "mobile": [
+        "12345",
+        "67890",
+        "abcde"
+    ]
+}

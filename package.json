@@ -1,0 +1,20 @@
+{
+  "name": "demoqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FormPage.js",
+  "scripts": {
+    "test": "playwright test",
+    "allure:generate": "allure generate allure-results --clean",
+    "allure:open": "allure open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "allure-commandline": "^2.30.0",
+    "allure-playwright": "^3.0.0-beta.8",
+    "playwright": "^1.46.0"
+  }
+}
